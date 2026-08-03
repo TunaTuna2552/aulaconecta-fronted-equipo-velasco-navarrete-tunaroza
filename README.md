@@ -18,13 +18,13 @@ forma rápida y clara a los contenidos que ofrece el SENA.
 
 
 # Equipo
-1. **Velasco**
+1. **Karol Juliana Velasco Rincón**
    * **Usuario: karol-vel**
    * **Rol: Responsable de la rama**
-3. **Navarrete**
+3. **Cristian David Navarrete Marulanda**
    * **Usuario: Cristian26951**
    * **Rol: Revisor, Auditor**
-5. **Tunaroza**
+5. **Cristian Fabian Tunaroza Rodriguez**
    * **Usuario: TunaTuna2552**
    * **Rol: Responsable del repositorio**
 
