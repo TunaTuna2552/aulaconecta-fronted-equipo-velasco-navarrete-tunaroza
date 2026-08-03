@@ -5,38 +5,38 @@ El proyecto consiste en un aplicativo web que agilice el proceso
 de aprendizaje en el SENA.
 
 # Problema a solucionar y objetivo 
-**Problema que soluciona**: La dificultad de estudiantes para-acceder de 
+1. **Problema que soluciona**: La dificultad de estudiantes para-acceder de 
 forma rápida y clara a los contenidos que ofrece el SENA.
-**Objetivo**: Desarrollar una aplicación web interactiva e intuitiva que centralice las herramientas y contenidos institucionales, con el fin de optimizar los procesos de aprendizaje y la eficiencia académica.
+2. **Objetivo**: Desarrollar una aplicación web interactiva e intuitiva que centralice las herramientas y contenidos institucionales, con el fin de optimizar los procesos de aprendizaje y la eficiencia académica.
 
 
 # Alcance inicial
-**Modulo de landing page**: Inicio de la página con diseño intuitivo y dinámico.
-**Página de login**: Ingreso hacia la página para-acceder a los contenidos.
-**Panel del aprendiz (Dashboard)**: Enseña anuncios de actividades o boletines del SENA a los aprendices.
-**Detalle de la ficha**: Se muestran actividades interactivas y mensajes de los instructores hacia los aprendices
+1. **Modulo de landing page**: Inicio de la página con diseño intuitivo y dinámico.
+2. **Página de login**: Ingreso hacia la página para-acceder a los contenidos.
+3. **Panel del aprendiz (Dashboard)**: Enseña anuncios de actividades o boletines del SENA a los aprendices.
+4. **Detalle de la ficha**: Se muestran actividades interactivas y mensajes de los instructores hacia los aprendices
 
 
 # Equipo
-**Velasco**_****_**Diseñador frontend**
-**Navarrete**_**Cristian26951**_**Diseñador frontend**
-**Tunaroza**_**TunaTuna2552**_**Diseñador frontend**
+1. **Velasco**_****_**Diseñador frontend**
+2. **Navarrete**_**Cristian26951**_**Diseñador frontend**
+3. **Tunaroza**_**TunaTuna2552**_**Diseñador frontend**
 
 
 # Ruta Tecnológica
-**HTML**: Estructura del contenido
-**CSS**: Estilo y diseño visual
-**JavaScript**: Lógica e interactividad
-**React**: Librerías para el desarrollo
+1. **HTML**: Estructura del contenido
+2. **CSS**: Estilo y diseño visual
+3. **JavaScript**: Lógica e interactividad
+4. **React**: Librerías para el desarrollo
 
 # Acuerdo de trabajo
-**Ramas**: Se trabaja con la rama principal main para código estable. 
-**Revisión de Código**:  Ningún cambio se fusiona directamente a main y se realiza un pull request por algún compañero por cada paso realizado.
-**Convención de Mensajes de Commit**: Se usará el estándar *Conventional Commits*:
-  feat: para nuevas funcionalidades 
-  fix: para solución de errores.
-  docs: para cambios en documentación.
-  style: para formateo o retoques de CSS sin afectar lógica.
+1. **Ramas**: Se trabaja con la rama principal main para código estable. 
+2. **Revisión de Código**:  Ningún cambio se fusiona directamente a main y se realiza un pull request por algún compañero por cada paso realizado.
+3. **Convención de Mensajes de Commit**: Se usará el estándar *Conventional Commits*:
+ * feat: para nuevas funcionalidades 
+ * fix: para solución de errores.
+ * docs: para cambios en documentación.
+ * style: para formateo o retoques de CSS sin afectar lógica.
 
 
 # Criterios de calidad antes de fusionar
