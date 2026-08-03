@@ -20,13 +20,13 @@ forma rápida y clara a los contenidos que ofrece el SENA.
 # Equipo
 1. **Velasco**
    * **Usuario: **
-   * **Rol: Diseñador frontend**
+   * **Rol: Responsable de la rama**
 3. **Navarrete**
    * **Usuario: Cristian26951**
-   * **Rol: Diseñador frontend**
+   * **Rol: Revisor, Auditor**
 5. **Tunaroza**
    * **Usuario: TunaTuna2552**
-   * **Rol: Diseñador frontend**
+   * **Rol: Responsable de la rama**
 
 
 # Ruta Tecnológica
