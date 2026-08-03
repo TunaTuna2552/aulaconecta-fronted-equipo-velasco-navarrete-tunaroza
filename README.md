@@ -26,7 +26,7 @@ forma rápida y clara a los contenidos que ofrece el SENA.
    * **Rol: Revisor, Auditor**
 5. **Tunaroza**
    * **Usuario: TunaTuna2552**
-   * **Rol: Responsable de la rama**
+   * **Rol: Responsable del repositorio**
 
 
 # Ruta Tecnológica
