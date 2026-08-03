@@ -19,7 +19,7 @@ forma rápida y clara a los contenidos que ofrece el SENA.
 
 # Equipo
 1. **Velasco**
-   * **Usuario: **
+   * **Usuario: karol-vel**
    * **Rol: Responsable de la rama**
 3. **Navarrete**
    * **Usuario: Cristian26951**
